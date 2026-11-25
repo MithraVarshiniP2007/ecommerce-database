@@ -1,0 +1,11 @@
+product_name,product_category,product_quantity,product_discount,product_price,Total Amount,Discounted_product_price,product_id
+novel,Home & kitchen,87,39,218.0,18966.0,11569.26,6848
+t-shirt,Electronics,43,20,752.0,32336.0,25868.8,5478
+jeans,Books,3,7,615.0,1845.0,1715.85,8445
+novel,Clothing,51,24,686.0,34986.0,26589.36,5615
+textbook,Clothing,29,3,343.0,9947.0,9648.59,4271
+t-shirt,Home & kitchen,13,42,149.0,1937.0,1123.46,9283
+plates,Books,46,50,740.0,34040.0,17020.0,3183
+jeans,Books,55,27,300.0,16500.0,12045.0,1743
+novel,Clothing,79,55,529.0,41791.0,18805.95,4036
+plates,Clothing,92,76,837.0,77004.0,18480.96,9522
